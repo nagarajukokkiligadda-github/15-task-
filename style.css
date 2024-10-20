@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    background-color: brown;
+    text-align: center;
+    font-size: xx-large;
+    padding: 30px;
+}
+h2{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    position: sticky;
+    top: 0px;
+    padding: 10px;
+}
+img{
+    width: 100%;
+}
